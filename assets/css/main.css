@@ -1,12 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,400italic,600");
 @import url("font-awesome.min.css");
 
-/*
-	Helios by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
-
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -2169,14 +2163,14 @@ input, select, textarea {
 		padding: 7.5em 0 2em 0;
 		cursor: default;
 	}
-
+*/
 		#header:before {
 			content: '';
 			display: inline-block;
 			vertical-align: middle;
 			height: 100%;
 		}
-
+/*
 		#header .inner {
 			position: relative;
 			z-index: 1;
@@ -2184,7 +2178,7 @@ input, select, textarea {
 			display: inline-block;
 			vertical-align: middle;
 		}
-
+*/
 		#header header {
 			display: inline-block;
 		}
@@ -2959,7 +2953,7 @@ input, select, textarea {
 
 					#navPanel .link.depth-0 {
 						color: #fff;
-						font-weight: 600;
+						font-weight: 300;
 					}
 
 				#navPanel .indent-1 {
