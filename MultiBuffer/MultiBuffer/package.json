@@ -1,0 +1,10 @@
+{
+  "main":"index.html",
+  "name":"MultiBuffer",
+  "description":"Приложение сделано на основе уроков на youtube",
+  "version":"0.0.1",
+    "window":{
+      "width":700,
+      "height":700
+    }
+}
