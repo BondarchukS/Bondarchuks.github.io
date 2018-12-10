@@ -1903,7 +1903,7 @@ input, select, textarea {
 	ul.icons {
 		position: relative;
 		background: rgba(128, 128, 128, 0.05);
-		border-radius: 4em;
+		border-radius: 5em;
 		display: inline-block;
 		padding: 0.35em 0.75em 0.35em 0.75em;
 		font-size: 1.25em;
@@ -1919,7 +1919,7 @@ input, select, textarea {
 			ul.icons li a {
 				display: inline-block;
 				background: none;
-				width: 2.5em;
+				width: 3.9em;
 				height: 2.5em;
 				line-height: 2.5em;
 				text-align: center;
@@ -2912,7 +2912,7 @@ input, select, textarea {
 				-ms-transition: -ms-transform 0.5s ease;
 				transition: transform 0.5s ease;
 				display: block;
-				height: 40vh;
+				height: 50vh;
 				left: 0;
 				overflow-y: auto;
 				position: fixed;
