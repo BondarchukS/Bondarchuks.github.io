@@ -2903,10 +2903,10 @@ input, select, textarea {
 				-webkit-backface-visibility: hidden;
 				-ms-backface-visibility: hidden;
 				backface-visibility: hidden;
-				-moz-transform: translateY(-30vh);
-				-webkit-transform: translateY(-30vh);
-				-ms-transform: translateY(-30vh);
-				transform: translateY(-30vh);
+				-moz-transform: translateY(-35vh);
+				-webkit-transform: translateY(-35vh);
+				-ms-transform: translateY(-35vh);
+				transform: translateY(-35vh);
 				-moz-transition: -moz-transform 0.5s ease;
 				-webkit-transition: -webkit-transform 0.5s ease;
 				-ms-transition: -ms-transform 0.5s ease;
